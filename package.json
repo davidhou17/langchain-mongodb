@@ -1,0 +1,20 @@
+{
+  "name": "langchain-node-2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "langchain-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.0.35",
+    "@langchain/mongodb": "^0.0.1",
+    "@langchain/openai": "^0.0.16",
+    "langchain": "^0.1.25",
+    "pdf-parse": "^1.1.1"
+  }
+}
